@@ -1,6 +1,22 @@
 {
     "metadata": {
         "name": "Corruption Cases in Chile",
+        "author": {
+            "name": "Enzo Morata",
+            "url": "https://github.com/EnzoMorata/preprocess-corruption-data"
+        },
+        "sources": [
+            {
+                "author": "Bastián Olea Herrera",
+                "url": "https://github.com/bastianolea/corrupcion_chile"
+            },
+            {
+                "author": "Banco Central de Chile (BCCh)",
+                "url": "https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_MACRO/MN_EST_MACRO_IV/PEM_VAR12_IPC_BS23/638421420032988875?cbFechaInicio=1928&cbFechaTermino=2024&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase="
+            }
+        ],
+        "license": "GPL-3.0",
+        "last-modification": "2024-10-06",
         "country": "Chile",
         "language": "es",
         "currency": "Chilean Peso (CLP)",
@@ -13,20 +29,20 @@
                 "Izquierda"
             ],
             "Partido": [
-                "Comunes",
-                "Independiente",
-                "UDI",
-                "Republicanos",
-                "PR",
-                "PRO",
                 "Evópoli",
+                "Republicanos",
+                "PS",
+                "Comunes",
+                "PC",
+                "DC",
+                "UDI",
+                "PRO",
                 "Liberal",
                 "RN",
-                "PS",
-                "PC",
-                "RD",
-                "DC",
-                "PPD"
+                "PR",
+                "Independiente",
+                "PPD",
+                "RD"
             ],
             "Posición": [
                 "Alcalde",
